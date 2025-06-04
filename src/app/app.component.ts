@@ -4,6 +4,4 @@ import { Component } from '@angular/core';
     selector: 'app-root',
     template: ``,
 })
-export class AppComponent {
-    title = 'ngx-reactive-game';
-}
+export class AppComponent {}
